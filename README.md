@@ -8,3 +8,5 @@ update again
 
 
 need to change after pull requesting! OK!
+
+fix bug
